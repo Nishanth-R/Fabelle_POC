@@ -1,1 +1,1 @@
-web: gunicorn One_shot.wsgi
+web: python One_shot.py
