@@ -3,6 +3,7 @@ from flask_tweepy import Tweepy
 import apiai 
 import json
 import pandas as pd
+import os
 
 # Client Access Token for accessing the API AI Bot
 CLIENT_ACCESS_TOKEN = "080ff7299dda438ba4906d6f312952b5"
